@@ -16,6 +16,7 @@ display the output string.
 Sample Output: 
 Hello Zara, welcome to Python programming 
 
+
 2. String Slicing and Indexing:
 ------------------------------ 
 Write a Python program using the above concatenated string as input and performs the 
@@ -27,6 +28,7 @@ d. Print the last 11 characters of the string.
 e. Print the string in reverse. 
 f. Use slicing and print the word “Python” from the existing string.
 
+
 3. String Methods:
 -------------------
 Write a Python program that takes a string, strM = “Python beginner tutorial” and 
@@ -37,6 +39,7 @@ c. Use Capitalize and return the sentence to the original input form.
 d. Count the total number of occurrences of character ‘t’  in the string. 
 e. Replace all occurrences of “Python” with “Machine Learning”  in the input string 
 strM = “Python beginner tutorial” 
+
 
 4. Tuples (Creation, Modification and Access) :
 ------------------------------------------------
